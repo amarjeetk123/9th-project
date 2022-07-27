@@ -1,4 +1,4 @@
-# Project-09-  
+# Project-09-  Developer Landing Page
  ## Hey there ,  I am Amarjeet 
  I have built a template of HTML and CSS project using my core css skills 
  
@@ -7,9 +7,8 @@
  ![](https://img.shields.io/badge/CSS-3-blue)
 
  My Live Deployed Website Link:- [Click here !](https://app.netlify.com/sites/project-04-a-small-web-page/overview)
-
- 
- ![](./images/web-page.jpg)
+  
+![](./images/web-page)
 
  ## For making this project I spend almost 8 hours.
 
