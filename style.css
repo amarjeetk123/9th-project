@@ -16,11 +16,12 @@ header{
 nav{
   height: 100px;
   display: flex;
+  justify-content: space-around;
  
 }
 .logo{
   margin-top: 30px;
-  margin-left: 20px;
+ 
 }
 .items{
   display: flex;
@@ -44,7 +45,7 @@ nav{
 }
 .header-text{
   margin-top: 50px;
-  margin-left: 20px;
+  margin-left: 60px;
   color: #ffffff;
 }
 .header-image{
